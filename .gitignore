@@ -361,9 +361,17 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
-
+# Database
 *.sqlite3
+
+# Media
+*.png
+*.jpeg
 
 user_images/
 face_rec/
 face_recognition_app/migrations/
+
+# Virtual environment
+venv/
+.face_rec/
