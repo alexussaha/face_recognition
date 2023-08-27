@@ -365,4 +365,5 @@ FodyWeavers.xsd
 *.sqlite3
 
 user_images/
-migrations/
+face_rec/
+face_recognition_app/migrations/
